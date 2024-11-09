@@ -1,2 +1,2 @@
-# dp_sc
-DeepLearning.Ai Short Courses
+# DeepLearning Short Courses 
+Code Examples of DeepLearning.ai Short Courses
